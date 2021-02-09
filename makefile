@@ -1,2 +1,2 @@
 make:
-	python3 hw0.py
+	python hw0.py
